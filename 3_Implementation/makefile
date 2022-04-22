@@ -1,4 +1,4 @@
-PROJ_NAME = Smart Home Automation using Wifi and Voice Control
+PROJ_NAME = Electronic_voice_Inc
 
 BUILD_DIR = Build
 
@@ -30,7 +30,7 @@ else #All configurations for Linux OS
 # Name of the elf to hex file converter used
 	  AVR_OBJ_CPY = avr-objcopy 
    endif
-endif
+   endif
 
 # Command to make to consider these names as targets and not as file names in folder
 .PHONY:all analysis clean doc
