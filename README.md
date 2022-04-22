@@ -10,3 +10,5 @@
 
 ## Cpp-Check  
 [![Cpp-Check](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/c-cpp.yml)
+
+[![Analysis](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/analysis.yml/badge.svg)](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/analysis.yml)
