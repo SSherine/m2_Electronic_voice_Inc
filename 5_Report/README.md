@@ -19,11 +19,11 @@
 # WHERE
 * The most common applications of home automation are lighting control, HVAC, outdoor lawn irrigation, kitchen appliances, and security systems.
 # WHY
-* Home automation technologies such as smart thermostats, smart lighting, and smart appliances connect to a centralized control that can act on its own or be programmed to control energy consumption and increase savings.
+* Electronic_voice_Inc technologies such as smart thermostats, smart lighting, and smart appliances connect to a centralized control that can act on its own or be programmed to control energy consumption and increase savings.
 # WHAT
-* Home Automation system is a system that uses computers or mobile devices to control basic home functions and features automatically through internet from anywhere around the world
+* Electronic_voice_Inc is a system that uses computers or mobile devices to control basic home functions and features automatically through internet from anywhere around the world
 # HOW
-* Home automation is a network of hardware, communication, and electronic interfaces that work to integrate everyday devices with one another via the Internet.
+* Electronic_voice_Incis a network of hardware, communication, and electronic interfaces that work to integrate everyday devices with one another via the Internet.
 
 # **HIGH LEVEL REQUIREMENT**
 * NodeMCU-send the message to web page
