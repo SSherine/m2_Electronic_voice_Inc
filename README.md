@@ -7,3 +7,6 @@
 
 * Codiga - Static Code Analysis [![Codiga Badge](https://api.codiga.io/project/33060/status/svg)]
 * Codiga - Grade Analysis [![Codiga Badge](https://api.codiga.io/project/33060/score/svg)]
+
+## Cpp-Check  
+[![Cpp-Check](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SSherine/m2_Electronic_voice_Inc/actions/workflows/c-cpp.yml)
